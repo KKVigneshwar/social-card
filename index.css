@@ -1,0 +1,18 @@
+body{
+    background-color: lightcyan;
+}
+a{
+    text-decoration: none;
+    border-bottom: 1px solid blue;
+}
+.fa{
+    color: blue;
+}
+.box-center{
+    background-color: whitesmoke;
+    padding: 60px 10px;
+    margin: 30px 0px;
+}
+.text{
+    padding: 30px;
+}
